@@ -1,4 +1,4 @@
-package aula26;
+package aula28;
 
 public class Fibonacci {
     public static void main(String[] args) {
