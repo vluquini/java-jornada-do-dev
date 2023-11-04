@@ -32,5 +32,6 @@ public class ComparandoArrays {
         int[] numbersD = new int[] {5,6,7};
 
         System.out.println(Arrays.equals(numbersC,numbersD));
+
     }
 }
