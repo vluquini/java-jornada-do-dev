@@ -1,10 +1,5 @@
 package aula20;
 
-import aula26.User;
-
-import java.util.ArrayList;
-import java.util.List;
-
 public class ManipulandoStrings {
 
     public static void main(String[] args) {
