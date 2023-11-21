@@ -7,6 +7,11 @@ public class ManipulandoStrings {
         // O método 'trim' remove espaços descenessários no início/fim de uma String.
         System.out.println(s1.trim());
 
+        String s2 = "Ola João!";
+        System.out.println(s2.contains("Ola"));
+        String s3 = "Ole João!";
+        System.out.println(s3.contains("Ola"));
+
     }
 
 }
